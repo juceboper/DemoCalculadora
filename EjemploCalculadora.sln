@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EjemploCalculadora", "EjemploCalculadora\EjemploCalculadora.csproj", "{6CEAEAE9-D7FE-4F96-A1CA-42927E1BAD5E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EjemploCalculadoraTests", "EjemploCalculadoraTests\EjemploCalculadoraTests.csproj", "{636E0352-E9DF-4E5D-AC52-D5EA0362A35C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6CEAEAE9-D7FE-4F96-A1CA-42927E1BAD5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CEAEAE9-D7FE-4F96-A1CA-42927E1BAD5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CEAEAE9-D7FE-4F96-A1CA-42927E1BAD5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CEAEAE9-D7FE-4F96-A1CA-42927E1BAD5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{636E0352-E9DF-4E5D-AC52-D5EA0362A35C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{636E0352-E9DF-4E5D-AC52-D5EA0362A35C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{636E0352-E9DF-4E5D-AC52-D5EA0362A35C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{636E0352-E9DF-4E5D-AC52-D5EA0362A35C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2D99B9A3-8B49-40EE-A816-CB1D8AD1EF23}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://dev.azure.com/DemoAzurePipelines
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = EjemploCalculadora\\EjemploCalculadora.csproj
+		SccProjectName1 = EjemploCalculadora
+		SccLocalPath1 = EjemploCalculadora
+		SccProjectUniqueName2 = EjemploCalculadoraTests\\EjemploCalculadoraTests.csproj
+		SccProjectName2 = EjemploCalculadoraTests
+		SccLocalPath2 = EjemploCalculadoraTests
+	EndGlobalSection
+EndGlobal
